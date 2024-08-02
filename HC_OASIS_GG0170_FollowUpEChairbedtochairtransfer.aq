@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>E. Chair/bed-to-chair transfer: The ability to transfer to and from a bed to a chair (or wheelchair)</description>
+        <isActive>true</isActive>
+        <name>GG0170.FollowUp.E. Chair/bed-to-chair transfer:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>E. Chair/bed-to-chair transfer: The ability to transfer to and from a bed to a chair (or wheelchair)</questionText>
+        <responseValues>06
+05
+04
+03
+02
+01
+07
+09
+10
+88</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Select</dataType>
+    <developerName>HC_OASIS_GG0170_FollowUpEChairbedtochairtransfer</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.FollowUp.E. Chair/bed-to-chair transfer:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_FollowupMobility</relatedQuestion>
+</AssessmentQuestion>

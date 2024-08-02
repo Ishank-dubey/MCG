@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>S. Wheel 150 feet: Once seated in wheelchair/scooter, the ability to wheel at least 150 feet in a corridor or similar space</description>
+        <isActive>true</isActive>
+        <name>GG0170.S. Wheel 150 feet:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>S. Wheel 150 feet: Once seated in wheelchair/scooter, the ability to wheel at least 150 feet in a corridor or similar space</questionText>
+        <responseValues>06
+05
+04
+03
+02
+01
+07
+09
+10
+88</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Select</dataType>
+    <developerName>HC_OASIS_GG0170SWheel150feet</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.S. Wheel 150 feet:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_MobilityDischarge</relatedQuestion>
+</AssessmentQuestion>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>2. Discharge Goal</description>
+        <isActive>true</isActive>
+        <name>GG0170.O.2. Discharge Goal</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>2. Discharge Goal</questionText>
+        <responseValues>06
+05
+04
+03
+02
+01
+07
+09
+10
+88</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Select</dataType>
+    <developerName>HC_OASIS_GG0170_O2DischargeGoal</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.O.2. Discharge Goal</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

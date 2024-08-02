@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>03. Partial/moderate assistance – Helper does LESS THAN HALF the effort. Helper lifts, holds or supports trunk or limbs, but provides less than half the effort. 02. Substantial/maximal assistance – Helper does MORE THAN HALF the effort. Helper lifts or holds trunk or limbs and provides more than half the effort. 01. Dependent – Helper does ALL of the effort. Patient does none of the effort to complete the activity. Or, the assistance of 2 or more helpers is required for the patient to complete the activity.</description>
+        <isActive>true</isActive>
+        <name>GG0170.Follow-up.CODINGACTIVITIES2</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;table border=&quot;1&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50&quot;&gt;03&lt;/td&gt;&lt;td width=&quot;1000&quot;&gt;&lt;b&gt;Partial/moderate assistance&lt;/b&gt; – Helper does LESS THAN HALF the effort. Helper lifts, holds or supports trunk or limbs, but provides less than half the effort.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;02&lt;/td&gt;&lt;td&gt;&lt;b&gt;Substantial/maximal assistance&lt;/b&gt; – Helper does MORE THAN HALF the effort. Helper lifts or holds trunk or limbs and provides more than half the effort.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;01&lt;/td&gt;&lt;td&gt;&lt;b&gt;Dependent&lt;/b&gt; – Helper does ALL of the effort. Patient does none of the effort to complete the activity. Or, the assistance of 2 or more helpers is required for the patient to complete the activity.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_FollowupCODINGACTIVITIES2</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>GG0170.Follow-up.CODINGACTIVITIES2</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_Mobility</relatedQuestion>
+</AssessmentQuestion>

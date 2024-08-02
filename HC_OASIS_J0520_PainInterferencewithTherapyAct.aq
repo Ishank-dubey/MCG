@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Pain Interference with Therapy Activities</description>
+        <helpText>Ask patient: &quot;Over the past 5 days, how often have you limited your participation in rehabilitation therapy sessions due to  pain?&quot;</helpText>
+        <isActive>true</isActive>
+        <name>J0520. Pain Interference with Therapy Activities</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>J0520. Pain Interference with Therapy Activities</questionText>
+        <responseValues>0. Does not apply – I have not received rehabilitation therapy in the past 5 days
+1. Rarely or not at all
+2. Occasionally
+3. Frequently
+4. Almost constantly
+8. Unable to answer</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_OASIS_J0520_PainInterferencewithTherapyAct</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>J0520. Pain Interference with Therapy Activities</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

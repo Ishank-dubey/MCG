@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Coding: Safety and Quality of Performance – If helper assistance is required because patient’s performance is unsafe or of poor quality, score according to amount of assistance provided. Activities may be completed with or without assistive devices.</description>
+        <isActive>true</isActive>
+        <name>GG0170.Follow-up.Coding:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;Coding:&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Safety&lt;/strong&gt; and &lt;strong&gt;Quality of Performance &lt;/strong&gt;– If helper assistance is required because patient’s performance is unsafe or of poor quality, score according to amount of assistance provided.&lt;br&gt;Activities may be completed with or without assistive devices.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_FollowupCoding</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>GG0170.Follow-up.Coding:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_FollowupMobility</relatedQuestion>
+</AssessmentQuestion>

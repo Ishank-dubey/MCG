@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Pain Effect on Sleep</description>
+        <helpText>Ask patient: &quot;Over the past 5 days, how much of the time has pain made it hard for you to sleep at night&quot;</helpText>
+        <isActive>true</isActive>
+        <name>J0510. Pain Effect on Sleep</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>J0510. Pain Effect on Sleep</questionText>
+        <responseValues>0. Does not apply – I have not had any pain or hurting in the past 5 days 
+1. Rarely or not at all
+2. Occasionally
+3. Frequently
+4. Almost constantly
+8. Unable to answer</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_OASIS_J0510_PainEffectonSleep</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>J0510. Pain Effect on Sleep</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

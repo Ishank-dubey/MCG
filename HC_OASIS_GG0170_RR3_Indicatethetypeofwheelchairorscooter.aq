@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>RR3. Indicate the type of wheelchair or scooter used.</description>
+        <isActive>true</isActive>
+        <name>GG0170.RR3. Indicate the type of wheelchair or scooter used.</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>RR3. Indicate the type of wheelchair or scooter used.</questionText>
+        <responseValues>1. Manual
+2. Motorized</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_OASIS_GG0170_RR3_Indicatethetypeofwheelchairorscooter</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.RR3. Indicate the type of wheelchair or scooter used.</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_MobilityDischarge</relatedQuestion>
+</AssessmentQuestion>

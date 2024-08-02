@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>A. Roll left and right: The ability to roll from lying on back to left and right side, and return to lying on back on the bed</description>
+        <isActive>true</isActive>
+        <name>GG0170.SOC/ROC.A. Roll left and right:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;A. Roll left and right: &lt;/strong&gt;The ability to roll from lying on back to left and right side, and return to lying on back on the bed.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_SOC_ROC_ARollleftandright</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>GG0170.SOC/ROC.A. Roll left and right:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

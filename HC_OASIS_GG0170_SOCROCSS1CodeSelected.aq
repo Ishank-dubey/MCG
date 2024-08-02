@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Code Selected</description>
+        <isActive>true</isActive>
+        <name>GG0170.SOC/ROC.SS1.Code Selected</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Code Selected</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Formula</dataType>
+    <developerName>HC_OASIS_GG0170_SOCROCSS1CodeSelected</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.SOC/ROC.SS1.Code Selected</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

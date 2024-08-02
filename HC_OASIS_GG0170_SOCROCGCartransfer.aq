@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>G. Car transfer: The ability to transfer in and out of a car or van on the passenger side. Does not include the ability to open/close door or fasten seat belt.</description>
+        <isActive>true</isActive>
+        <name>GG0170.SOC/ROC.G. Car transfer:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;G. Car transfer: &lt;/strong&gt;The ability to transfer in and out of a car or van on the passenger side. Does not include the ability to open/close door or fasten seat belt.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_SOCROCGCartransfer</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.SOC/ROC.G. Car transfer:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

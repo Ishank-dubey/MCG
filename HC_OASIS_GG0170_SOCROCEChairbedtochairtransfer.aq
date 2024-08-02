@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>E. Chair/bed-to-chair transfer: The ability to transfer to and from a bed to a chair (or wheelchair).</description>
+        <isActive>true</isActive>
+        <name>GG0170.SOC/ROC.E. Chair/bed-to-chair transfer:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;E. Chair/bed-to-chair transfer: &lt;/strong&gt;The ability to transfer to and from a bed to a chair (or wheelchair).</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_SOCROCEChairbedtochairtransfer</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>GG0170.SOC/ROC.E. Chair/bed-to-chair transfer:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

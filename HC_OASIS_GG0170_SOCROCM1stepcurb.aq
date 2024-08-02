@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>M. 1 step (curb): The ability to go up and down a curb or up and down one step.</description>
+        <isActive>true</isActive>
+        <name>GG0170.SOC/ROC.M. 1 step (curb):</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;M. 1 step (curb): &lt;/strong&gt;The ability to go up and down a curb or up and down one step.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_SOCROCM1stepcurb</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.SOC/ROC.M. 1 step (curb):</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

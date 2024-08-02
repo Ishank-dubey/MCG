@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>J. Walk 50 feet with two turns: Once standing, the ability to walk 50 feet and make two turns.</description>
+        <isActive>true</isActive>
+        <name>GG0170.SOC/ROC.J. Walk 50 feet with two turns:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;J. Walk 50 feet with two turns:&lt;/strong&gt; Once standing, the ability to walk 50 feet and make two turns.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_SOC_ROCJWalk50feetwithtwoturns</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>GG0170.SOC/ROC.J. Walk 50 feet with two turns:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

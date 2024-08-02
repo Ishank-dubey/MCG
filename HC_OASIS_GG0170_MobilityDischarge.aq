@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>GG0170. Mobility Discharge</description>
+        <isActive>true</isActive>
+        <name>GG0170. Mobility Discharge</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;GG0170. Mobility&lt;/strong&gt;&lt;br&gt;Code the patient’s usual performance at Discharge for each activity using the 6-point scale. If activity was not attempted at Discharge, code the reason.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_MobilityDischarge</developerName>
+    <name>GG0170. Mobility Discharge</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

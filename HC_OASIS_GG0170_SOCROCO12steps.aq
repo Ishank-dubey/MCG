@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>O. 12 steps: The ability to go up and down 12 steps with or without a rail.</description>
+        <isActive>true</isActive>
+        <name>GG0170.SOC/ROC.O.12 steps:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;O. 12 steps: &lt;/strong&gt;The ability to go up and down 12 steps with or without a rail.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_SOCROCO12steps</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>GG0170.SOC/ROC.O.12 steps:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

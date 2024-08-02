@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Q1. Does patient use wheelchair and/or scooter?</description>
+        <isActive>true</isActive>
+        <name>GG0170.SOC/ROC.Q1. Does patient use wheelchair and/or scooter?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Q1. Does patient use wheelchair and/or scooter?</questionText>
+        <responseValues>0. No 
+1. Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_OASIS_GG0170_SOCROCQ1Doespatientusewheelchairandorscooter</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>GG0170.SOC/ROC.Q1. Does patient use wheelchair and/or scooter?</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

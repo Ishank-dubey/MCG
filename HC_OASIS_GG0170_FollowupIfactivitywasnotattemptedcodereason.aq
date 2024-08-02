@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>&quot;f activity was not attempted, code reason:
+07. Patient refused
+09. Not applicable – Not attempted and the patient did not perform this activity prior to the current illness, exacerbation or injury.
+10. Not attempted due to environmental limitations (e.g., lack of equipment, weather constraints)
+88. Not attempted due to medical conditions or safety concerns&quot;</description>
+        <isActive>true</isActive>
+        <name>GG0170.Follow-Up.If activity was not attempted, code reason:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong&gt;If activity was not attempted, code reason:&lt;/strong&gt;&lt;br&gt;&lt;table border=&quot;1&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Code&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width=&quot;50&quot;&gt;07&lt;/td&gt;&lt;td width=&quot;1000&quot;&gt;&lt;b&gt;Patient refused&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09&lt;/td&gt;&lt;td&gt;&lt;b&gt;Not applicable&lt;/b&gt; – Not attempted and the patient did not perform this activity prior to the current illness, exacerbation or injury.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;&lt;b&gt;Not attempted due to environmental limitations&lt;/b&gt; (e.g., lack of equipment, weather constraints)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;88&lt;/td&gt;&lt;td&gt;&lt;b&gt;Not attempted due to medical conditions or safety concerns&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_FollowupIfactivitywasnotattemptedcodereason</developerName>
+    <name>GG0170.Follow-Up.If activity was not attempted, code reason:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_FollowupMobility</relatedQuestion>
+</AssessmentQuestion>

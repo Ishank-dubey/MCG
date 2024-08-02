@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>06. Independent – Patient completes the activity by him/herself with no assistance from a helper. 05. Setup or clean-up assistance – Helper sets up or cleans up; patient completes activity. Helper assists only prior to or following the activity. 04. Supervision or touching assistance – Helper provides verbal cues and/or touching/steadying and/or contact guard assistance as patient completes activity. Assistance may be provided throughout the activity or intermittently.</description>
+        <isActive>true</isActive>
+        <name>HC_OASIS_GG0170_SOC/ROC._CODINGACTIVITIES</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;table border =&quot;1&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Code&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width=&quot;50&quot;&gt;06&lt;/td&gt;&lt;td width=1000&quot;&gt;&lt;b&gt;Independent&lt;/b&gt; – Patient completes the activity by him/herself with no assistance from a helper.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05&lt;/td&gt;&lt;td&gt;&lt;b&gt;Setup or clean-up assistance&lt;/b&gt; – Helper sets up or cleans up; patient completes activity. Helper assists only prior to or following the activity.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;04&lt;/td&gt;&lt;td&gt;&lt;b&gt;Supervision or touching assistance&lt;/b&gt; – Helper provides verbal cues and/or touching/steadying and/or contact guard assistance as patient completes activity. Assistance may be provided throughout the activity or intermittently.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_OASIS_GG0170_SOCROCCODINGACTIVITIES</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>HC_OASIS_GG0170_SOC/ROC._CODINGACTIVITIES</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_SOCROCMobility</relatedQuestion>
+</AssessmentQuestion>

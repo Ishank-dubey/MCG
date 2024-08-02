@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>D. Sit to stand: The ability to come to a standing position from sitting in a chair, wheelchair, or on the side of the 
+bed.</description>
+        <isActive>true</isActive>
+        <name>GG0170.D. Sit to stand:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>D. Sit to stand: The ability to come to a standing position from sitting in a chair, wheelchair, or on the side of the bed.</questionText>
+        <responseValues>06
+05
+04
+03
+02
+01
+07
+09
+10
+88</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Select</dataType>
+    <developerName>HC_OASIS_GG0170_FollowUpDSittostand</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.D. Sit to stand:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_FollowupMobility</relatedQuestion>
+</AssessmentQuestion>

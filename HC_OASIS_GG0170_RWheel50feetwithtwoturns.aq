@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>R. Wheel 50 feet with two turns: Once seated in wheelchair/scooter, the ability to wheel at least 50 feet and make two turns.</description>
+        <isActive>true</isActive>
+        <name>GG0170.R. Wheel 50 feet with two turns:</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>R. Wheel 50 feet with two turns: Once seated in wheelchair/scooter, the ability to wheel at least 50 feet and make two turns.</questionText>
+        <responseValues>06
+05
+04
+03
+02
+01
+07
+09
+10
+88</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Select</dataType>
+    <developerName>HC_OASIS_GG0170_RWheel50feetwithtwoturns</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>GG0170.R. Wheel 50 feet with two turns:</name>
+    <questionCategory>Health</questionCategory>
+    <relatedQuestion>HC_OASIS_GG0170_MobilityDischarge</relatedQuestion>
+</AssessmentQuestion>
